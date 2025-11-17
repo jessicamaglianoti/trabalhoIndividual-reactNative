@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
   logo: {
     width: 150,
     height: 150,
-    marginBottom: 100, // sobe a logo
+    marginBottom: 100, 
   },
 
   metaArea: {
