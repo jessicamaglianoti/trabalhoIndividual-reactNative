@@ -1,4 +1,4 @@
-🌟 Objetivos e Regras do Projeto
+🌟 Objetivos e Regras do Projeto: 
 O projeto teve como base os seguintes objetivos e regras:
 
 Objetivos:
